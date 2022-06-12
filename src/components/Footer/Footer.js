@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components/macro';
+import React from "react";
+import styled from "styled-components/macro";
 
 const Footer = () => {
   return <Wrapper>© 2021-present. All rights reserved.</Wrapper>;

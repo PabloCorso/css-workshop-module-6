@@ -35,7 +35,7 @@ The images in the photo grid and the hero should implement the following optimiz
 For the hero, you can hardcode these values. For the photo grid, you'll need to use some JavaScript to update the photo names. You can use the `replace` method:
 
 ```js
-src.replace('.jpg', '@2x.avif');
+src.replace(".jpg", "@2x.avif");
 ```
 
 One last thing: the images are a little distorted right now. This happens because our images are all the same size, but they don't share the same aspect ratio.

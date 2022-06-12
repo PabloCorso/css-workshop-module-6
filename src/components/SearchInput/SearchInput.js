@@ -1,8 +1,8 @@
-import React from 'react';
-import styled from 'styled-components/macro';
-import { Search } from 'react-feather';
+import React from "react";
+import styled from "styled-components/macro";
+import { Search } from "react-feather";
 
-import VisuallyHidden from '../VisuallyHidden';
+import VisuallyHidden from "../VisuallyHidden";
 
 const SearchInput = (props) => {
   return (

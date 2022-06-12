@@ -1,5 +1,5 @@
-import React from 'react';
-import styled from 'styled-components/macro';
+import React from "react";
+import styled from "styled-components/macro";
 
 const Logo = () => {
   return <Wrapper href="/">Unsprinkle</Wrapper>;
